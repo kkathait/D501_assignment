@@ -43,3 +43,16 @@ scores = np.array([99, 71, 85, 62, 91])
 
 print(lowest_score(names, scores))
 print(sort_names(names, scores))
+
+names = np.array(['Alice', 'Bob', 'Charlie'])
+scores = np.array([85,90,80])
+
+print(lowest_score(names, scores))
+print(sort_names(names, scores))
+
+names = np.array(['David', 'Eve', 'Frank'])
+scores = np.array([70,75,80
+                   ])
+
+print(lowest_score(names, scores))
+print(sort_names(names, scores))
